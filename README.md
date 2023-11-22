@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Sou de Belo Horizonte/MG, Brasil
+- 🧠 Estudando de Ciências da Computação na universidade Estácio de Sá - Estou no último semestre!!!
+- 🔭 Atualmente trabalho como Desenvolvedor FullStack na V.Tal
+
