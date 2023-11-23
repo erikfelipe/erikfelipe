@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 🧠 Estudando de Ciências da Computação na universidade Estácio de Sá - Estou no último semestre!!!
 - 🔭 Atualmente trabalho como Desenvolvedor FullStack na V.Tal
 
+  #### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)  
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=next"/>](https://nextjs.org/docs)
+
+
